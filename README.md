@@ -1,15 +1,24 @@
-# Getting Started with Create React App
+# PROJETO ALURONI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
+## FOI UTILIZADO:
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+### `Hooks: useState e useEffect;`
+### `Sass;`
+### `Responsividade com media screen;`
+### `Componentização;`
+### `Props;`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
+<br>
+
+## IMAGENS DO PROJETO:
+
+<br>
+
 
 ![Alura Studies - Pessoal — Microsoft​ Edge 25_08_2022 19_12_48](https://user-images.githubusercontent.com/101364762/186802532-7e69bfab-3d19-4e7f-8f96-c0ab5c6b1087.png)
 
