@@ -2,15 +2,15 @@
 
 <br>
 
-## FOI UTILIZADO:
+## 🌌 TECNOLOGIAS:
 
 <br>
 
-### `Hooks: useState e useEffect;`
-### `Sass;`
-### `Responsividade com media screen;`
-### `Componentização;`
-### `Props;`
+✅Hooks: useState e useEffect;<br>
+✅sass;<br>
+✅Responsividade com media screen;<br>
+✅Componentização;<br>
+✅Props;<br>
 
 <br>
 <br>
