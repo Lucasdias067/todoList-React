@@ -1,4 +1,4 @@
-# PROJETO ALURONI
+# PROJETO CRONÔMETRO
 
 <br>
 
