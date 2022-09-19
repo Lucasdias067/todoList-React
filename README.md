@@ -30,5 +30,5 @@ Esse projeto é sobre uma lista de estudos do seu dia, você escreverá o que va
 </p>
 
 # Rodando o projeto:
-Para rodar o projeto, apenas clone e dê um <b>npm i</b>, <b>npm i sass</b> e então <b>npm start</b>.
+Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b> e então <b>npm start</b>.
 <br/>
