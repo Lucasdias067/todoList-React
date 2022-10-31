@@ -11,7 +11,7 @@
 Esse projeto é sobre uma lista de estudos do seu dia, você escreverá o que vai estudar e colocando no lado um cronômetro, para que tudo fique mais didático.Ao adicionar aparecerá do lado nos 'Estudos do dia' e poderá clicar nele para começar a contagem regressiva do cronômetro.
 </p>
 
-## 🌌 TECNOLOGIAS:
+## 🌌 Tecnologias:
 
 ✅Hooks: useState e useEffect;<br>
 ✅Sass;<br>
@@ -19,5 +19,5 @@ Esse projeto é sobre uma lista de estudos do seu dia, você escreverá o que va
 ✅Componentização;<br>
 ✅Props;<br>
 
-# Rodando o projeto:
+## Rodando o projeto:
 Para rodar o projeto, apenas clone e dê um <b>npm install</b>, <b>npm i sass</b> e então <b>npm start</b>.
