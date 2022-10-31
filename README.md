@@ -1,6 +1,6 @@
 # 👨🏽‍💻 PROJETO CRONÔMETRO
 
-## 📷 IMAGENS DO PROJETO:
+### 📷 IMAGENS DO PROJETO:
 
 ![Alura Studies - Pessoal — Microsoft​ Edge 25_08_2022 19_12_48](https://user-images.githubusercontent.com/101364762/186802532-7e69bfab-3d19-4e7f-8f96-c0ab5c6b1087.png)
 
